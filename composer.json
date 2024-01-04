@@ -12,5 +12,7 @@
             "email": "bobm78@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
