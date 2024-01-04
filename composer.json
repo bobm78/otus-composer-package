@@ -1,0 +1,16 @@
+{
+    "name": "salenko/otus-composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Salenko\\OtusComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "salenko bogdan",
+            "email": "bobm78@mail.ru"
+        }
+    ],
+    "require": {}
+}
